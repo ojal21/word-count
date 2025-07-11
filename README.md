@@ -44,3 +44,7 @@ A Named Entity Recognition (NER) WordCount pipeline built using **PySpark**, **N
 | London       | 421       |
 | Baker Street | 190       |
 
+---
+Note: This project was originally created during academic coursework using public datasets and entirely self-written code. It is shared solely for skill demonstration and not intended for academic reuse.
+
+
